@@ -2,6 +2,7 @@ package com.datastructure.linkedlist;
 
 public class SinglyLinkedList {
 
+    // create conflict
     public class Node {
         Object data;
         Node next;
